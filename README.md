@@ -236,6 +236,6 @@ All saved in `outputs/visualizations/` (PNG, 300 DPI)
 
 ## 👤 Author
 
-**Renan**  
+**Renan Groh**  
 Data Intern Challenge - December 2025
 
